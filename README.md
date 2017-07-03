@@ -13,7 +13,7 @@ This API check the users IP address and returns the corresponding location's wea
 
 This service works and is tested on Google App Engine.
 
-The URL for the service will be provided in the email that will send over this assignment.
+The URL for the service will be provided in the email that will be sent over for this assignment.
 
 If you're curious to deploy it yourself, deploy please follow the instructions from https://cloud.google.com/appengine/docs/standard/python/getting-started/python-standard-env.
 
